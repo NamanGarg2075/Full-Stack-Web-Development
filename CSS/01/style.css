@@ -1,0 +1,13 @@
+/* colors */
+h1 {
+  color: green;
+}
+
+p {
+  color: rgb(51, 209, 31);
+}
+
+button {
+  color: rgb(43, 138, 20);
+  background-color: skyblue;
+}
