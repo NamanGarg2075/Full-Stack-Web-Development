@@ -1,0 +1,14 @@
+/* Element */
+span {
+  color: rgb(218, 11, 80);
+}
+
+/* class selector */
+.class {
+  background-color: rgb(16, 211, 81);
+}
+
+/* id selector */
+#id {
+  background-color: rgba(245, 86, 86, 0.788);
+}
